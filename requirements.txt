@@ -1,0 +1,8 @@
+sklearn
+flask
+numpy
+dill
+keras
+pandas
+tensorflow
+flask-cors
